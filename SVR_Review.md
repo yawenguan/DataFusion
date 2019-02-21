@@ -1,4 +1,4 @@
-##Support Vector Regression
+##  Support Vector Regression
 * Here we use the r package *e1071* to fit support vector regression to a subset of the US 2011 air quality data; support vector regression is fitted to PM2.5 concentration at the log scale.
 * The model is trained on PM2.5 concentration data, with Longtitude, Latitude, time, the selected covaraites and CMAQ data as inputs. 
 * The final selected model was tuned on full data where gamma=0.3.
