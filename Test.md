@@ -1,7 +1,7 @@
 ##  Inverse Distance Weighting
 
 
-```{r,eval=F}
+```r
 ###############################################
 # INPUT
 #  s   := training data spatial locations (n_obs x 2)
